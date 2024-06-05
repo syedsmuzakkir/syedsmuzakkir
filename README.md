@@ -25,6 +25,7 @@
 - [Project 1](https://eip.synectiks.net/): 
 - [Project 2] ecommerce-website 
 - [Project 3] ecommerce-pos-app (https://github.com/Appkube-ecommerce/appkube-pos-app/tree/muzakkir)
+- [Project 4 ] Mern Web-app (https://mern-stack-web-app-fjbt.vercel.app/)
 
 
 Let's connect and build something amazing together! 😊
