@@ -2,7 +2,7 @@
 
 👀 I’m passionate about **web and mobile development**, with a focus on building user-friendly and performant interfaces.
 
-🌱 Currently sharpening my skills in frontend development and cross-platform app development using modern tools and frameworks.
+🌱 Currently sharpening my skills in frontend development, Backend development and cross-platform app development using modern tools and frameworks.
 
 💞️ Open to collaborations on innovative **web** and **React Native mobile** application projects.
 
@@ -31,7 +31,7 @@
 
 ### **Backend**
 - **Node.js**
-- Basic Express.js experience
+-  Express.js experience
 
 ---
 
