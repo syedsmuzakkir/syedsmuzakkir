@@ -41,7 +41,7 @@
 - **Project 2:** Ecommerce Website *(private/internal)*
 - [Project 3 – POS Mobile App](https://github.com/Appkube-ecommerce/appkube-pos-app/tree/muzakkir): Built using **React Native** not just this one and more private
 
-- [Project 4 – MERN Web App](https://product-cart-kappa.vercel.app/)
+- Project 4 – Ecommerce website (https://product-cart-kappa.vercel.app/)
 
 ---
 
