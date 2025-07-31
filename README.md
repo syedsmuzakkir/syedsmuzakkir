@@ -1,48 +1,55 @@
-# Hi there, I'm Syed Muzakkir! 👋
+# 👋 Hi, I'm Syed Muzakkir
 
-👀 I’m passionate about **web and mobile development**, with a focus on building user-friendly and performant interfaces.
+I'm a **Full Stack Developer** passionate about building high-quality **web** and **mobile applications**. I focus on performance, clean design, and solving real-world problems through code.
 
-🌱 Currently sharpening my skills in frontend development, Backend development and cross-platform app development using modern tools and frameworks.
-
-💞️ Open to collaborations on innovative **web** and **React Native mobile** application projects.
-
-📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/syed-muzakkir-276516222/)
-
-😄 Pronouns: He/Him  
-⚡ Fun fact: I love experimenting with new technologies and finding creative solutions to real-world problems!
+- 🌱 Currently sharpening my skills in **frontend**, **backend**, and **cross-platform mobile development** using modern frameworks.
+- 🤝 Open to collaborating on impactful **React**, **Next.js**, and **React Native** projects.
+- 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/syed-muzakkir-276516222/)
+- 🌐 Visit my [Portfolio Website](https://syedmuzakkir.vercel.app/)
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love experimenting with new tools and building quick prototypes that solve real problems.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### **Frontend Development**
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React.js, Next.js, Redux Toolkit
-- **Styling:** Tailwind CSS, SCSS
-- **API Integration:** RESTful APIs, GraphQL
-- **Other:** Git, Responsive Web Design
+### 🔹 Frontend
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Libraries/Frameworks:** React.js, Next.js, Redux Toolkit
+- **Styling:** Tailwind CSS, SCSS, Responsive Web Design
+- **API Integration:** REST, GraphQL
+- **Tools:** Git, GitHub, Vite, ESLint, Prettier
 
-### **Mobile App Development**
-- **React Native 
-- Cross-platform UI/UX design
-- Native modules, device features (camera, notifications)
-- Firebase integration (Auth, Cloud Messaging)
-- React Navigation, AsyncStorage, Vector Icons
+### 🔹 Mobile Development
+- **Framework:** React Native
+- **Features:** Camera, Notifications, Firebase Auth & Messaging, AsyncStorage
+- **UI/UX:** Cross-platform design, React Navigation, Vector Icons
 
-### **Backend**
-- **Node.js**
--  Express.js experience
-
----
-
-## 🚀 Projects
-
-- [Project 1](https://eip.synectiks.net/): Enterprise web platform
-- **Project 2:** Ecommerce Website *(private/internal)*
-- [Project 3 – POS Mobile App](https://github.com/Appkube-ecommerce/appkube-pos-app/tree/muzakkir): Built using **React Native** not just this one and more private
-
-- Project 4 – Ecommerce website (https://product-cart-kappa.vercel.app/)
+### 🔹 Backend
+- **Runtime:** Node.js
+- **Framework:** Express.js
+- **Database:** MongoDB (basic), Firebase
 
 ---
 
-Let’s collaborate and build something awesome together! 😊
+## 🚀 Featured Projects
+
+- 🔗 [Enterprise Web Platform](https://eip.synectiks.net/)  
+  Internal enterprise platform built with a focus on performance and UX.
+
+- 🔐 **Ecommerce Website** *(Internal project – not publicly available)*  
+  Full-stack shopping platform with product listings, cart, and checkout.
+
+- 📱 [POS Mobile App – React Native](https://github.com/Appkube-ecommerce/appkube-pos-app/tree/muzakkir)  
+  Cross-platform POS app integrating camera, local storage, and backend APIs.
+
+- 🛒 [Product Cart Web App](https://product-cart-kappa.vercel.app/)  
+  Responsive e-commerce frontend built using Next.js + Tailwind CSS.
+
+---
+
+## 🚀 Let’s Collaborate
+
+I’m always looking to work on creative and meaningful projects. Whether it's a freelance gig, a startup idea, or an open-source collaboration—let’s make it happen!
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/syed-muzakkir-276516222/) or explore more at [syedmuzakkir.vercel.app](https://syedmuzakkir.vercel.app/).
